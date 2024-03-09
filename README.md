@@ -1,6 +1,5 @@
 # dash_powerbi_dsa
 Dashboards dados abertos aula DSA.
-#  dash_powerbi_dsa
 ## Solução de problemas com dashboards por área de negócio 
 
 - **Comercial.pbix:**  Dashboard desenvolvido com algumas métricas e influenciadores, para suporte a equipe comercial.
